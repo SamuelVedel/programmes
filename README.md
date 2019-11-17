@@ -1,5 +1,5 @@
 # programmes
-Work only with Eclipse
+Marche seulement avec Elclipse
 
 Pour jouer aux jeux que j'ai créer :
 - il faut créer un nouveau projet java sur eclipse et lui donner le nom du jeux (voir Etapes\Etape01)
